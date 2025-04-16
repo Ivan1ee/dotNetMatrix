@@ -18,6 +18,7 @@ dotNet安全矩阵星球从创建以来一直聚焦于.NET领域的安全攻防�
 
 # 更新日志
 
-- 2025-04 
+- 2025-04
+  - [.NET 红队利器，通过 Sharp4GetNTDS 提取 Windows 域控 NTDS.dit 文件](https://mp.weixin.qq.com/s/ycBlEK0_V5J7yP9AiEZ2aQ)
   - [.NET 权限提升，通过 sdclt.exe 实现的 Windows UAC 绕过工具](https://mp.weixin.qq.com/s/dImC30-dplLhYi2IFcFrtg)
   - [突破 .NET 身份认证，上传定制化 web.config 实现RCE](https://mp.weixin.qq.com/s/IZkD2ZvW9dtBMVQd243jfw)
