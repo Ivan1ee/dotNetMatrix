@@ -16,7 +16,7 @@ dotNet安全矩阵星球从创建以来一直聚焦于.NET领域的安全攻防�
 
 ---
 
-# 更新日志
+# 更新的精华文章
 
 - 2025-04
   - [.NET 红队利器，通过 Sharp4GetNTDS 提取 Windows 域控 NTDS.dit 文件](https://mp.weixin.qq.com/s/ycBlEK0_V5J7yP9AiEZ2aQ)
