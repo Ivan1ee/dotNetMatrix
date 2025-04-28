@@ -19,6 +19,8 @@ dotNet安全矩阵星球从创建以来一直聚焦于.NET领域的安全攻防�
 # 更新的精华文章
 
 - 2025-04
+  - [一种利用路径变形绕过权限校验的思路：那些容易被忽视的 .NET 漏洞触发点 ](https://mp.weixin.qq.com/s/br6jJEDVSYOnnRj_Im9PfA)
+  - [.NET 高级代码审计：一种绕过 GZip 叠加 BinaryFormatter 实现反序列化漏洞的技术 ](https://mp.weixin.qq.com/s/taSiepXDJ2M27QVopFDz6w)
   - [.NET 红队利器，通过 Sharp4GetNTDS 提取 Windows 域控 NTDS.dit 文件](https://mp.weixin.qq.com/s/ycBlEK0_V5J7yP9AiEZ2aQ)
   - [.NET 权限提升，通过 sdclt.exe 实现的 Windows UAC 绕过工具](https://mp.weixin.qq.com/s/dImC30-dplLhYi2IFcFrtg)
   - [突破 .NET 身份认证，上传定制化 web.config 实现RCE](https://mp.weixin.qq.com/s/IZkD2ZvW9dtBMVQd243jfw)
